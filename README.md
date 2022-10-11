@@ -54,3 +54,13 @@ print("Hello world")
 <!-- IMG -->
 
 ![Imagen de pink floud](pink.png)
+
+<!-- TO DO -->
+
+- [ ] Task 1
+- [x] Task 2
+- [x] Task 3
+- [ ] Task 4
+
+<!-- Emojis -->
+@facu3071 :smiley: :relaxed:
